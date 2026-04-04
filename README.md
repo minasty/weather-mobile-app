@@ -50,7 +50,7 @@ OpenWeatherMap API
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository:
-git clone https://github.com/minasty/WeatherMobileApp.git
+git clone https://github.com/minasty/weather-mobile-app.git
 cd WeatherMobileApp
 
 2️⃣ Install dependencies:
