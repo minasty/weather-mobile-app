@@ -16,14 +16,19 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
+      "adaptiveIcon": {},
+      "edgeToEdgeEnabled": true,
+      "permissions": ["INTERNET"],
+      "package": "com.minast.snack5cc60792096d4a9db02251e71226e516"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da74a5f6-2c8c-47b6-8431-3eeb3c816051"
+      }
+    },
+    "owner": "minast"
   }
 }
