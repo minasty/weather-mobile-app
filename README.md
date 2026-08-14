@@ -72,7 +72,7 @@ With your real API key.
 npx expo start
 
 📸 App screenshots:
-!(image.png)
+!(assets/screenshoots/image.png)
 
 🔐 Privacy & Copyright:
 © 2026 Anastase Minani. All rights reserved.
