@@ -240,13 +240,13 @@ Google Play uses the AAB to generate optimized APKs for individual devices.
 Screenshots of the application are available in:
 
 ```text
-assets/screenshots/
+assets/screenshoots/
 ```
 
 Example:
 
 ```markdown
-![Weather App](assets/screenshots/image.png)
+![Weather App](assets/screenshoots/image.png)
 ```
 
 ---
