@@ -246,7 +246,7 @@ assets/screenshoots/
 Example:
 
 ```markdown
-![Weather App](assets/screenshoots/image.png)
+![Weather App](assets/nature.jpg)
 ```
 
 ---
